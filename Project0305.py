@@ -1,0 +1,5 @@
+pet=input("Enter your favorite pet")
+toes=int(input("Enter how many legs does it has?"))
+food=input("What is its favorite food")
+live=input("Where does it live?")
+print("The",pet,"is the cutest of all. It has", toes," toes and a beautiful heart. It loves to eat",food," although it will eat pretty much anything. It lives in",live," and you must be super sweet to it, or you may end up as its meal!")
